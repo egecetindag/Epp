@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musepp</string>
+    <string name="hello_world">Select a museum</string>
+    <string name="select">Select a museum</string>
+    <string name="select_spinner">Select</string>
+    <string-array name ="select_array">
+        <item>DenemeMuseum</item>
+    </string-array>
+</resources>
